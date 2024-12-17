@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+C:\Users\teoma\OneDrive\Masaüstü\yazılım mimarisi\yazılım mimarisi\.metadata\.plugins\org.eclipse.jdt.core
+3540542857.index
+3153847985.index
+1149535325.index
+4257108140.index
+3778077582.index
+1865797976.index
+105140768.index
+1420843969.index
+4219900162.index
+142970473.index
+553153344.index
+1719039927.index
